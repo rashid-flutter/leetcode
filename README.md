@@ -249,6 +249,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+| [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,4 +266,8 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
