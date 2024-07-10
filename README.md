@@ -249,6 +249,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+| [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 ## Two Pointers
 |  |
@@ -262,6 +263,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+| [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -285,4 +287,5 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rashid1110/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
+| [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
