@@ -263,6 +263,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rashid1110/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
@@ -288,5 +289,6 @@ https://doocs.github.io/leetcode
 | [0012-integer-to-roman](https://github.com/Rashid1110/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Rashid1110/leetcode/tree/master/0058-length-of-last-word) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rashid1110/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
