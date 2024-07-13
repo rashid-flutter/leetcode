@@ -249,6 +249,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/Rashid1110/leetcode/tree/master/2846-robot-collisions) |
@@ -276,6 +277,7 @@ https://doocs.github.io/leetcode
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/Rashid1110/leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -297,6 +299,7 @@ https://doocs.github.io/leetcode
 | [0014-longest-common-prefix](https://github.com/Rashid1110/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rashid1110/leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rashid1110/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
