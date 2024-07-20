@@ -250,6 +250,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/Rashid1110/leetcode/tree/master/2846-robot-collisions) |
@@ -324,4 +325,12 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
