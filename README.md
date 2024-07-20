@@ -260,10 +260,12 @@ https://doocs.github.io/leetcode
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rashid1110/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Rashid1110/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Rashid1110/leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -305,6 +307,7 @@ https://doocs.github.io/leetcode
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Rashid1110/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Rashid1110/leetcode/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rashid1110/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
