@@ -254,6 +254,7 @@ https://doocs.github.io/leetcode
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/Rashid1110/leetcode/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -335,8 +336,17 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
