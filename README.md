@@ -254,6 +254,7 @@ https://doocs.github.io/leetcode
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Rashid1110/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -303,6 +304,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rashid1110/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Rashid1110/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Rashid1110/leetcode/tree/master/2502-sort-the-people) |
@@ -311,6 +313,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rashid1110/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -367,4 +370,12 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
