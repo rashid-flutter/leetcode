@@ -249,6 +249,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rashid1110/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rashid1110/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -262,6 +263,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rashid1110/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rashid1110/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rashid1110/leetcode/tree/master/0125-valid-palindrome) |
@@ -327,6 +329,7 @@ https://doocs.github.io/leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rashid1110/leetcode/tree/master/0015-3sum) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
 | [2502-sort-the-people](https://github.com/Rashid1110/leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Rashid1110/leetcode/tree/master/2846-robot-collisions) |
