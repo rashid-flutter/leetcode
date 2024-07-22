@@ -270,6 +270,7 @@ https://doocs.github.io/leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Rashid1110/leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Rashid1110/leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -318,6 +319,7 @@ https://doocs.github.io/leetcode
 | [0125-valid-palindrome](https://github.com/Rashid1110/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rashid1110/leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Rashid1110/leetcode/tree/master/0443-string-compression) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rashid1110/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
