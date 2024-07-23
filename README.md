@@ -256,6 +256,7 @@ https://doocs.github.io/leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0643-maximum-average-subarray-i](https://github.com/Rashid1110/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rashid1110/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -390,6 +391,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rashid1110/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Rashid1110/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
