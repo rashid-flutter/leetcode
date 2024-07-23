@@ -336,6 +336,7 @@ https://doocs.github.io/leetcode
 | [0443-string-compression](https://github.com/Rashid1110/leetcode/tree/master/0443-string-compression) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rashid1110/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rashid1110/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/Rashid1110/leetcode/tree/master/2502-sort-the-people) |
 ## Trie
@@ -392,6 +393,7 @@ https://doocs.github.io/leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rashid1110/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rashid1110/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rashid1110/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
