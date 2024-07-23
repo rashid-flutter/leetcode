@@ -253,6 +253,7 @@ https://doocs.github.io/leetcode
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -365,6 +366,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Graph
 |  |
 | ------- |
@@ -381,4 +383,12 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
