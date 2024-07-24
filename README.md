@@ -257,6 +257,7 @@ https://doocs.github.io/leetcode
 | [0283-move-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/Rashid1110/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rashid1110/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Rashid1110/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
@@ -375,6 +376,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rashid1110/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Graph
 |  |
 | ------- |
@@ -398,9 +400,11 @@ https://doocs.github.io/leetcode
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rashid1110/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rashid1110/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rashid1110/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rashid1110/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rashid1110/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
