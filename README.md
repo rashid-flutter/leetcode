@@ -309,6 +309,7 @@ https://doocs.github.io/leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rashid1110/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Rashid1110/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rashid1110/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rashid1110/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -329,6 +330,7 @@ https://doocs.github.io/leetcode
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rashid1110/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rashid1110/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rashid1110/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Rashid1110/leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Rashid1110/leetcode/tree/master/0125-valid-palindrome) |
@@ -393,6 +395,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rashid1110/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Rashid1110/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Rashid1110/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rashid1110/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
