@@ -260,6 +260,7 @@ https://doocs.github.io/leetcode
 | [0948-sort-an-array](https://github.com/Rashid1110/leetcode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rashid1110/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Rashid1110/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rashid1110/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rashid1110/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -287,6 +288,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Rashid1110/leetcode/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rashid1110/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -407,6 +409,7 @@ https://doocs.github.io/leetcode
 | [0643-maximum-average-subarray-i](https://github.com/Rashid1110/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rashid1110/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rashid1110/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rashid1110/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
