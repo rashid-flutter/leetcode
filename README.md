@@ -250,6 +250,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rashid1110/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rashid1110/leetcode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Rashid1110/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -316,6 +317,7 @@ https://doocs.github.io/leetcode
 | [0012-integer-to-roman](https://github.com/Rashid1110/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rashid1110/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Rashid1110/leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Rashid1110/leetcode/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
@@ -377,6 +379,7 @@ https://doocs.github.io/leetcode
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rashid1110/leetcode/tree/master/0036-valid-sudoku) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search
