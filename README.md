@@ -252,6 +252,7 @@ https://doocs.github.io/leetcode
 | [0015-3sum](https://github.com/Rashid1110/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Rashid1110/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rashid1110/leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Rashid1110/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -307,6 +308,7 @@ https://doocs.github.io/leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rashid1110/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
 | [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/Rashid1110/leetcode/tree/master/2846-robot-collisions) |
@@ -380,6 +382,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rashid1110/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Rashid1110/leetcode/tree/master/0054-spiral-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search
