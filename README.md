@@ -271,6 +271,7 @@ https://doocs.github.io/leetcode
 | [1803-average-waiting-time](https://github.com/Rashid1110/leetcode/tree/master/1803-average-waiting-time) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Rashid1110/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Rashid1110/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Rashid1110/leetcode/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -354,6 +355,7 @@ https://doocs.github.io/leetcode
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rashid1110/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/Rashid1110/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Rashid1110/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Trie
 |  |
 | ------- |
