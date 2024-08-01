@@ -255,6 +255,7 @@ https://doocs.github.io/leetcode
 | [0048-rotate-image](https://github.com/Rashid1110/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rashid1110/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Rashid1110/leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rashid1110/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rashid1110/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0283-move-zeroes) |
@@ -322,6 +323,7 @@ https://doocs.github.io/leetcode
 | [0013-roman-to-integer](https://github.com/Rashid1110/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rashid1110/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Rashid1110/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Rashid1110/leetcode/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
@@ -388,6 +390,7 @@ https://doocs.github.io/leetcode
 | [0036-valid-sudoku](https://github.com/Rashid1110/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rashid1110/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rashid1110/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Rashid1110/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rashid1110/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search
