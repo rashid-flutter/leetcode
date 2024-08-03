@@ -265,6 +265,7 @@ https://doocs.github.io/leetcode
 | [1046-max-consecutive-ones-iii](https://github.com/Rashid1110/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Rashid1110/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Rashid1110/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rashid1110/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rashid1110/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rashid1110/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rashid1110/leetcode/tree/master/1720-crawler-log-folder) |
@@ -327,6 +328,7 @@ https://doocs.github.io/leetcode
 | [0076-minimum-window-substring](https://github.com/Rashid1110/leetcode/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rashid1110/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rashid1110/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rashid1110/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Rashid1110/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Rashid1110/leetcode/tree/master/2502-sort-the-people) |
@@ -371,6 +373,7 @@ https://doocs.github.io/leetcode
 | [0726-number-of-atoms](https://github.com/Rashid1110/leetcode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Rashid1110/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Rashid1110/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Rashid1110/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rashid1110/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Rashid1110/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Rashid1110/leetcode/tree/master/2502-sort-the-people) |
